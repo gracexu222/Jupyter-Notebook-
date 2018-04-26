@@ -1,9 +1,7 @@
-# Jupyter-Notebook-
-keyboard
+## Jupyter Notebook 的快捷键
+### Jupyter Notebook 有两种键盘输入模式。编辑模式，允许你往单元中键入代码或文本；这时的单元框线是绿色的。命令模式，键盘输入运行程序命令；这时的单元框线是灰色。
 
-Jupyter Notebook 的快捷键
-Jupyter Notebook 有两种键盘输入模式。编辑模式，允许你往单元中键入代码或文本；这时的单元框线是绿色的。命令模式，键盘输入运行程序命令；这时的单元框线是灰色。
-
+```
 命令模式 (按键 Esc 开启)
 Enter : 转入编辑模式
 Shift-Enter : 运行本单元，选中下个单元
@@ -74,3 +72,4 @@ Ctrl-S : 文件存盘
 Shift : 忽略
 Up : 光标上移或转入上一单元
 Down :光标下移或转入下一单元
+```
